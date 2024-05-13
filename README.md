@@ -5,7 +5,7 @@ My name is Pablo, I'm from Argentina and I'm an IT consultant.
 ## My Projects
 - [Deployment of a web application on AWS with Terraform Modules, Docker, EC2, ECR, ECS, and RDS](https://github.com/pdnt/rz-infrastructure-ecs)
 - [Development of a secure RESTful API with Python and FastAPI](https://github.com/pdnt/fastapi-app)
-- [Mapping an apex domain to an Azure CDN endpoint with automated SSL Certificate management](https://pablodip.me/post/mapping-an-apex-domain-to-an-azure-cdn-endpoint-with-automated-ssl-certificate-management/)
+- [Mapping an apex domain to an Azure CDN endpoint with automated SSL Certificate management](https://www.dippablo.com/post/mapping-an-apex-domain-to-an-azure-cdn-endpoint-with-automated-ssl-certificate-management/)
 
 ## Skills
 - Technologies: AWS, Azure, Docker, Terraform, Ansible
@@ -13,5 +13,5 @@ My name is Pablo, I'm from Argentina and I'm an IT consultant.
 - Critical thinking, decision-making and problem solving skills
 
 ## Connect with Me
-- Blog: [pablodip.me](https://pablodip.me/)
+- Blog: [pablodip.me](https://www.dippablo.com/)
 - LinkedIn: [Pablo Dip](https://www.linkedin.com/in/pablo-dip/)
