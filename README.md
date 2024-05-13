@@ -17,5 +17,5 @@ I firmly believe in sharing knowledge and empowering others, which is why I have
 - Critical thinking, decision-making and problem solving skills
 
 ## Connect with Me
-- Blog: [pablodip.me](https://www.dippablo.com/)
+- Blog: [dippablo.com](https://www.dippablo.com/)
 - LinkedIn: [Pablo Dip](https://www.linkedin.com/in/pablo-dip/)
