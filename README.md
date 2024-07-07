@@ -10,6 +10,7 @@ I firmly believe in sharing knowledge and empowering others, which is why I have
 - [Deployment of a web application on AWS with Terraform Modules, Docker, EC2, ECR, ECS, and RDS](https://github.com/pdnt/rz-infrastructure-ecs)
 - [Development of a secure RESTful API with Python and FastAPI](https://github.com/pdnt/fastapi-app)
 - [Mapping an apex domain to an Azure CDN endpoint with automated SSL Certificate management](https://www.dippablo.com/post/mapping-an-apex-domain-to-an-azure-cdn-endpoint-with-automated-ssl-certificate-management/)
+- [Text linting and correction tool written in Go](https://github.com/pdnt/tbd)
 
 ## Skills
 - Technologies: AWS, Azure, Docker, Terraform, Ansible
